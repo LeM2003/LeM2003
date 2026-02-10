@@ -1,16 +1,18 @@
-## Hi there 👋
+### Salut, moi c'est Mouhamadou ! 👋
 
-<!--
-**LeM2003/LeM2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Étudiant en Informatique (Data & IA) passionné par l'Infrastructure & la Sécurité.**
 
-Here are some ideas to get you started:
+Actuellement, je pivote mes compétences de développement vers le **System Admin & Cybersecurité**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Ma Stack Technique :**
+*   **OS :** Linux (Kali, Ubuntu), Windows Server
+*   **Scripting :** Python 🐍, Bash 🐚
+*   **Web & BDD :** PHP, MySQL, SQL
+*   **Data :** R, Pandas
+
+🌱 **En train d'apprendre :**
+*   Pentesting avec les outils Kali
+*   Automatisation réseau avec Python
+*   Sécurisation de serveurs Linux
+
+📫 **Me contacter :** dioufmouha71@gmail.com
