@@ -42,17 +42,19 @@
 
 ## 📂 Projets Principaux
 
-### 🔹 [EcoTrack - Application de Suivi Financier](https://github.com/LeM2003/ecotrack) (2025)
-Application web complète pour la gestion des dépenses personnelles
-- **Tech :** PHP, MySQL, Architecture MVC, Power BI
-- **Features :** Authentification sécurisée, tableaux de bord interactifs, analyse financière automatisée
-- **Compétences :** Développement full-stack, gestion de bases de données, visualisation
+## 📂 Projets Principaux
 
-### 🔹 [EduPlan - Dashboard Éducatif](https://github.com/LeM2003/eduplan) (2024)
-Système de suivi pédagogique multi-utilisateur
-- **Tech :** Backend, MySQL, Reporting automatisé
-- **Features :** Gestion des droits utilisateurs, extraction de métriques, visualisation de données
-- **Compétences :** Architecture backend, sécurité, analyse de données éducatives
+### [💰 EcoTrack - Gestionnaire de Finances](https://github.com/LeM2003/ecotrack)
+Application web complète de gestion financière personnelle (Projet de mémoire de licence)
+- **Tech** : PHP, MySQL, Architecture MVC
+- **Features** : Budgets, Épargne, Rappels, Tableau de bord
+- **Statut** : Documentation complète | Code en cours de publication
+
+### [🎓 EduPlan - Dashboard Éducatif](https://github.com/LeM2003/eduplan)
+Système de gestion éducative multi-utilisateur
+- **Tech** : PHP, MySQL, Backend Development
+- **Features** : Multi-rôles, Reporting, Analytics
+- **Statut** : Projet personnel 2024
 
 ### 🔹 [Analyse COVID-19 Sénégal](https://github.com/LeM2003/covid19-senegal-analysis) (2025)
 Analyse statistique des données épidémiologiques (Projet de licence)
