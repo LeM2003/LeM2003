@@ -42,8 +42,6 @@
 
 ## 📂 Projets Principaux
 
-## 📂 Projets Principaux
-
 ### [💰 EcoTrack - Gestionnaire de Finances](https://github.com/LeM2003/ecotrack)
 Application web complète de gestion financière personnelle (Projet de mémoire de licence)
 - **Tech** : PHP, MySQL, Architecture MVC
