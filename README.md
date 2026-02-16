@@ -58,7 +58,19 @@ Système de gestion éducative multi-utilisateur
 Analyse statistique des données épidémiologiques (Projet de licence)
 - **Tech :** R, Analyse temporelle, Visualisation statistique
 - **Features :** Séries temporelles, détection de tendances, reporting scientifique
-- **Compétences :** Analyse statistique avancée, communication de résultats
+- **Compétences :** Analyse statistique avancée, communication de résultats📦 ImportManager-SN
+Application web de gestion d'importations commerciales | JavaScript • HTML • CSS
+Outil complet pour calculer les coûts d'importation depuis Alibaba vers le Sénégal avec gestion de stock et suivi des ventes.
+Fonctionnalités principales :
+
+✅ Calculateur multi-devises (USD, CNY, EUR → FCFA)
+✅ Dashboard de gestion avec interface moderne
+✅ Suivi des ventes et créances clients
+✅ Déployé sur GitHub Pages
+
+🔗 Démo Live | ⭐ Projet actif en développement
+
+
 
 ### 🔹 [Python SysAdmin Tools](https://github.com/LeM2003/Python-SysAdmin-Tools)
 Outils d'automatisation pour administration système
@@ -113,6 +125,10 @@ Je suis ouvert à :
 
 ---
 
+📊 GitHub Stats
+Afficher l'image
+Afficher l'image
+
 ## 💡 Fun Facts
 
 - 🎯 Autodidacte passionné - j'ai appris Linux et Python en autonomie
@@ -125,3 +141,12 @@ Je suis ouvert à :
 **💼 Statut actuel :** Activement à la recherche d'opportunités | Disponible immédiatement
 
 *N'hésitez pas à me contacter pour discuter de projets, collaborations ou opportunités !*
+
+💡 Philosophy
+
+"Coder tous les jours, apprendre constamment, construire des solutions concrètes."
+
+Je crois au #BuildInPublic : partager mon apprentissage et mes projets pour inspirer et apprendre des autres.
+
+Made with ❤️ in Dakar, Senegal 🇸🇳
+Afficher l'image
