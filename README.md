@@ -42,8 +42,8 @@
 
 ## 📂 Projets Principaux
 
-## 🌙 Projets récents
-- **[Quran Ramadan App](https://lem2003.github.io/quran-ramadan-app)** — Application web pour écouter le Coran en 30 jours (HTML/CSS/JS)
+###
+- **[Quran Ramadan App](https://lem2003.github.io/MuslimApp/)** — Application web pour écouter le Coran en 30 jours (HTML/CSS/JS)
   
 ### 📦 [ImportManager-SN](https://github.com/LeM2003/importmanager-sn) ⭐ **NOUVEAU**
 **Application web de gestion d'importations commerciales** | JavaScript • HTML • CSS
