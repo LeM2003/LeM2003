@@ -42,7 +42,8 @@
 
 ## 📂 Projets Principaux
 
-### [MuslimApp](https://lem2003.github.io/MuslimApp/)** — Une application web gratuite et open-source pour la communauté musulmane. Lisez le Coran, apprenez les invocations quotidiennes et comptez vos dhikr — le tout dans une seule application.
+### [MuslimApp](https://lem2003.github.io/MuslimApp/)
+**Une application web gratuite et open-source pour la communauté musulmane. Lisez le Coran, apprenez les invocations quotidiennes et comptez vos dhikr — le tout dans une seule application**
   
 ### 📦 [ImportManager-SN](https://github.com/LeM2003/importmanager-sn) ⭐ **NOUVEAU**
 **Application web de gestion d'importations commerciales** | JavaScript • HTML • CSS
