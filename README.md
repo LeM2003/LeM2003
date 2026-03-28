@@ -1,174 +1,84 @@
 # 👋 Salut, moi c'est Mouhamadou !
 
-🎓 **Étudiant en Master Data Science & Intelligence Artificielle** | Passionné par l'analyse de données, le développement et la tech
+🎓 **Étudiant en Data Science & Intelligence Artificielle** · Dev Web · Entrepreneur · Dakar 🇸🇳
 
-📍 Dakar, Sénégal | 💼 **Disponible immédiatement** pour opportunités temps partiel, plein temps ou freelance
+💼 **Disponible** pour opportunités freelance, temps partiel ou plein temps
 
 ---
 
 ## 🚀 À propos de moi
 
-Étudiant motivé et rigoureux avec une solide formation en **Statistiques et Informatique**. Je combine des compétences en **analyse de données**, **développement web** et **scripting** pour résoudre des problèmes concrets. Autodidacte passionné, j'apprends continuellement de nouvelles technologies et cherche à acquérir de l'expérience professionnelle.
+Étudiant passionné alliant **Data Science**, **développement web** et **entrepreneuriat**. Je construis des outils concrets, orientés impact — pour les utilisateurs sénégalais et africains.
 
-🎯 **Recherche active :** Poste en **Data Analysis**, **Support IT**, **Développement Backend**, ou toute mission technique me permettant de contribuer et d'apprendre.
+Autodidacte actif : j'apprends en construisant, je publie en open source.
+
+🎯 **Recherche active :** Data Analysis · Développement Web · Missions freelance
 
 ---
 
 ## 🛠️ Stack Technique
 
-### 💻 Programmation & Scripting
+### 💻 Programmation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-### 📊 Data & Analyse
+### 📊 Data et IA
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
-### 🗄️ Bases de Données
+### 🌐 Web
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-### 🐧 Systèmes & Outils
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-## 📂 Projets Principaux
+## 📂 Projets
 
-### [MuslimApp](https://lem2003.github.io/MuslimApp/)
-**Une application web gratuite et open-source pour la communauté musulmane. Lisez le Coran, apprenez les invocations quotidiennes et comptez vos dhikr — le tout dans une seule application**
-  
-### 📦 [ImportManager-SN](https://github.com/LeM2003/importmanager-sn) ⭐ **NOUVEAU**
-**Application web de gestion d'importations commerciales** | JavaScript • HTML • CSS
+### 🧠 [Personal OS Dashboard](https://lem2003.github.io/personal-os/) — NOUVEAU
+**Dashboard personnel PWA pour etudiant-entrepreneur** | React · Tailwind · Claude API · PWA
 
-Outil complet pour calculer les coûts d'importation depuis Alibaba vers le Sénégal avec gestion de stock et suivi des ventes.
+Centralise taches, projets, finances, emploi du temps et abonnements. Analyse IA des projets. Fonctionne hors ligne, installable sur mobile et desktop.
 
-**Fonctionnalités principales :**
-- ✅ Calculateur multi-devises (USD, CNY, EUR → FCFA)
-- ✅ Dashboard de gestion avec interface moderne (modale, animations)
-- ✅ Suivi des ventes et créances clients
-- ✅ Déployé sur GitHub Pages avec CI/CD
-
-**Impact :** Aide les importateurs sénégalais à estimer leurs coûts en 30 secondes vs 15 min sur Excel
-
-🔗 [**Démo Live**](https://lem2003.github.io/importmanager-sn/) | 💻 [Code Source](https://github.com/LeM2003/importmanager-sn) | 📊 **Projet actif** - Publication LinkedIn régulière (#BuildInPublic)
+🔗 [Demo Live](https://lem2003.github.io/personal-os/) · [Code](https://github.com/LeM2003/personal-os)
 
 ---
 
-### 💰 EcoTrack - Gestionnaire de Finances
-**Application web complète de gestion financière personnelle** (Projet de mémoire de licence)
+### 📦 [ImportManager-SN](https://lem2003.github.io/importmanager-sn/)
+**Calculateur de couts d'importation Alibaba vers le Senegal** | JavaScript · HTML · CSS
 
-- **Tech :** PHP, MySQL, Architecture MVC
-- **Features :** Budgets, Épargne, Rappels, Tableau de bord
-- **Statut :** Documentation complète | Code en cours de publication
+Calcul multi-devises USD/CNY/EUR vers FCFA, gestion de stock, suivi des ventes.
 
----
-
-### 🎓 EduPlan - Dashboard Éducatif
-**Système de gestion éducative multi-utilisateur**
-
-- **Tech :** PHP, MySQL, Backend Development
-- **Features :** Multi-rôles, Reporting, Analytics
-- **Statut :** Projet personnel 2024
+🔗 [Demo Live](https://lem2003.github.io/importmanager-sn/) · [Code](https://github.com/LeM2003/importmanager-sn)
 
 ---
 
-### 🔹 Analyse COVID-19 Sénégal (2025)
-**Analyse statistique des données épidémiologiques** (Projet de licence)
+### 🕌 [MuslimApp](https://lem2003.github.io/MuslimApp/)
+**Application web open-source pour la communaute musulmane** | HTML · JavaScript · PWA
 
-- **Tech :** R, Analyse temporelle, Visualisation statistique
-- **Features :** Séries temporelles, détection de tendances, reporting scientifique
-- **Compétences :** Analyse statistique avancée, communication de résultats
+Coran, invocations quotidiennes, compteur dhikr — gratuit et sans publicite.
 
----
-
-### 🐍 [Python SysAdmin Tools](https://github.com/LeM2003/Python-SysAdmin-Tools)
-**Outils d'automatisation pour administration système**
-
-- **Tech :** Python, Bash, Linux
-- **Features :** Scanner de ports, analyseur de logs, scripts d'automatisation
-- **Compétences :** Scripting, sécurité, administration système
+🔗 [Demo Live](https://lem2003.github.io/MuslimApp/) · [Code](https://github.com/LeM2003/MuslimApp)
 
 ---
 
-## 📈 Statistiques GitHub
-
-![Mouhamadou's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeM2003&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeM2003&layout=compact&theme=radical)
+### 🔒 [Python SysAdmin Tools](https://github.com/LeM2003/Python-SysAdmin-Tools)
+**Outils d'automatisation reseau et securite** | Python · Cybersecurite · Linux
 
 ---
 
-## 🎓 Formation
+## 📊 Stats GitHub
 
-**Master Data Science & Intelligence Artificielle** *(en cours)*  
-Swiss UMEF University - Dakar | 2025 - présent
-
-**Licence Statistique et Informatique Décisionnelle**  
-BEM Dakar | Diplômé le 31 août 2025
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeM2003&show_icons=true&theme=github_dark&hide_border=true&title_color=F5C518&icon_color=F5C518)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeM2003&layout=compact&theme=github_dark&hide_border=true&title_color=F5C518)
 
 ---
 
-## 💼 Ce que je recherche
-
-Je suis ouvert à :
-
-- ✅ **Stages** en Data Analysis, Développement Backend, Support IT
-- ✅ **Emplois** à temps partiel ou temps plein (disponible 9h-16h)
-- ✅ **Missions freelance** en analyse de données, développement, scripting
-- ✅ **Projets open source** pour contribuer et apprendre
-
----
-
-## 📫 Me contacter
-
-[![Email](https://img.shields.io/badge/Email-dioufmouha71@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dioufmouha71@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mouhamadou_Diouf-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouhamadou-diouf-364309276)
-
----
-
-## 🌱 Actuellement en train d'apprendre
-
-- 🤖 **Machine Learning** avec Python (scikit-learn)
-- 🔒 **Cybersécurité** et pentesting (Kali Linux)
-- 📊 **Visualisation avancée** de données (Plotly, D3.js)
-- ⚡ **Automatisation** avec Python
-- 🎨 **UI/UX Design** pour applications web modernes
-
----
-
-## 💡 Fun Facts
-
-- 🎯 **Autodidacte passionné** - j'ai appris Linux et Python en autonomie
-- 📚 Toujours à la **recherche de nouveaux défis techniques**
-- 🌍 **Contributeur actif** dans la communauté tech sénégalaise
-- ⚡ **Disponible immédiatement** pour opportunités professionnelles
-
----
-
-## 💡 Philosophy
-
-> "Coder tous les jours, apprendre constamment, construire des solutions concrètes."
-
-Je crois au **#BuildInPublic** : partager mon apprentissage et mes projets pour inspirer et apprendre des autres.
-
----
-
-## 💼 Statut actuel
-
-**✅ Activement à la recherche d'opportunités | Disponible immédiatement**
-
-N'hésitez pas à me contacter pour discuter de projets, collaborations ou opportunités !
-
----
-
-**Made with ❤️ in Dakar, Senegal 🇸🇳**
-
-![Profile Views](https://komarev.com/ghpvc/?username=LeM2003&color=blueviolet)
+*Dakar, Senegal · [lem2003.github.io/personal-os](https://lem2003.github.io/personal-os/)*
