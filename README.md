@@ -1,84 +1,57 @@
-# 👋 Salut, moi c'est Mouhamadou !
+# Mouhamadou Diouf
 
-🎓 **Étudiant en Data Science & Intelligence Artificielle** · Dev Web · Entrepreneur · Dakar 🇸🇳
-
-💼 **Disponible** pour opportunités freelance, temps partiel ou plein temps
-
----
-
-## 🚀 À propos de moi
-
-Étudiant passionné alliant **Data Science**, **développement web** et **entrepreneuriat**. Je construis des outils concrets, orientés impact — pour les utilisateurs sénégalais et africains.
-
-Autodidacte actif : j'apprends en construisant, je publie en open source.
-
-🎯 **Recherche active :** Data Analysis · Développement Web · Missions freelance
+**Full-Stack Developer · Data Engineer · Entrepreneur**  
+📍 Dakar, Sénégal &nbsp;|&nbsp; 🎓 Master IA & Data Science — Swiss UMEF University
 
 ---
 
-## 🛠️ Stack Technique
+## À propos
 
-### 💻 Programmation
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
-### 📊 Data et IA
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-### 🌐 Web
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+Je conçois et déploie des applications web complètes — de l'idée au produit en production.  
+Double expertise rare : **développement produit moderne** & **intelligence des données**.
 
 ---
 
-## 📂 Projets
+## Stack
 
-### 🧠 [Personal OS Dashboard](https://lem2003.github.io/personal-os/) — NOUVEAU
-**Dashboard personnel PWA pour etudiant-entrepreneur** | React · Tailwind · Claude API · PWA
+**Full-Stack Dev**
 
-Centralise taches, projets, finances, emploi du temps et abonnements. Analyse IA des projets. Fonctionne hors ligne, installable sur mobile et desktop.
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white)
 
-🔗 [Demo Live](https://lem2003.github.io/personal-os/) · [Code](https://github.com/LeM2003/personal-os)
+**Data & IA**
 
----
-
-### 📦 [ImportManager-SN](https://lem2003.github.io/importmanager-sn/)
-**Calculateur de couts d'importation Alibaba vers le Senegal** | JavaScript · HTML · CSS
-
-Calcul multi-devises USD/CNY/EUR vers FCFA, gestion de stock, suivi des ventes.
-
-🔗 [Demo Live](https://lem2003.github.io/importmanager-sn/) · [Code](https://github.com/LeM2003/importmanager-sn)
-
----
-
-### 🕌 [MuslimApp](https://lem2003.github.io/MuslimApp/)
-**Application web open-source pour la communaute musulmane** | HTML · JavaScript · PWA
-
-Coran, invocations quotidiennes, compteur dhikr — gratuit et sans publicite.
-
-🔗 [Demo Live](https://lem2003.github.io/MuslimApp/) · [Code](https://github.com/LeM2003/MuslimApp)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
 ---
 
-### 🔒 [Python SysAdmin Tools](https://github.com/LeM2003/Python-SysAdmin-Tools)
-**Outils d'automatisation reseau et securite** | Python · Cybersecurite · Linux
+## Projets
+
+| Projet | Description | Stack | Lien |
+|--------|-------------|-------|------|
+| **Olèle Systems** | Plateforme LMS complète en production — formations vidéo, quiz certifiants, certificats auto, analytics | Next.js · TypeScript · Supabase · Vercel | [olelesystems.company](https://olelesystems.company) |
+| **Personal OS** | Dashboard SaaS de pilotage personnel — finances, productivité, KPIs | Next.js · TypeScript · PostgreSQL | En cours |
+| **ImportManager-SN** | Gestion d'importations — calculs multi-devises USD/CNY/EUR → XOF | JavaScript | [Demo live](https://lem2003.github.io/importmanager-sn) |
+| **EcoTrack** | Application financière avec dashboards interactifs — Mémoire Licence | PHP · MySQL · Chart.js | [Repo](https://github.com/LeM2003/ecotrack) |
 
 ---
 
-## 📊 Stats GitHub
+## En ce moment
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeM2003&show_icons=true&theme=github_dark&hide_border=true&title_color=F5C518&icon_color=F5C518)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeM2003&layout=compact&theme=github_dark&hide_border=true&title_color=F5C518)
+- 🔨 Développement de **Personal OS** — Dashboard SaaS
+- 📚 Master **IA & Data Science** — Swiss UMEF University, Dakar
+- 🤝 Ouvert aux **collaborations & missions freelance**
 
 ---
 
-*Dakar, Senegal · [lem2003.github.io/personal-os](https://lem2003.github.io/personal-os/)*
+## Contact
+
+📧 dioufmouha71@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/mouhamadou-diouf-364309276)
