@@ -71,8 +71,8 @@ Master Data Science / IA en cours · code en production · clients réels.
 
 ## 🤝 Let's connect
 
-📧 **dioufmouha71@gmail.com**
-💼 [LinkedIn — Mouhamadou Diouf](https://linkedin.com/in/mouhamadou-diouf-364309276)
+📧 **Mouhamadoud_Diouf@proton.me**
+💼 [LinkedIn — Mouhamadou Diouf](https://www.linkedin.com/in/mouhamadou-diouf)
 🌐 Portfolio : *en construction sur [mouhamadou-diouf.com](https://mouhamadou-diouf.com)*
 
 ---
