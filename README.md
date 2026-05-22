@@ -1,57 +1,80 @@
 # Mouhamadou Diouf
 
-**Full-Stack Developer · Data Engineer · Entrepreneur**  
-📍 Dakar, Sénégal &nbsp;|&nbsp; 🎓 Master IA & Data Science — Swiss UMEF University
+### 🤖 AI Product Builder · 🎓 Master Data Science / IA · 🇸🇳 Dakar
+
+Je construis des produits web où **l'IA est au cœur, pas un add-on**.
+Du concept à la prod : Next.js, TypeScript, Supabase, LLMs.
+Master Data Science / IA en cours · code en production · clients réels.
 
 ---
 
-## À propos
+## 🚀 Currently shipping
 
-Je conçois et déploie des applications web complètes — de l'idée au produit en production.  
-Double expertise rare : **développement produit moderne** & **intelligence des données**.
+| Projet | Statut | Stack | Lien |
+|---|---|---|---|
+| **Olèle Systems** | 🟢 En production (clients réels, Sentry, audit P0 sécu) | Next.js 16 · Supabase · JWT · Vercel | [olele-systems.vercel.app](https://olele-systems.vercel.app) · *(repo privé)* |
+| **Personal OS V2** | 🟢 Déployé · refonte UI + TS récente | Next.js 16 · React 19 · TypeScript · Groq AI | [Live](https://personal-os-v2-wheat.vercel.app) · [Repo](https://github.com/LeM2003/personal-os-v2) |
+| **Portfolio v2** | 🟡 En construction | Next.js 16 · Motion · Tailwind v4 | [Repo](https://github.com/LeM2003/mouhamadou-portfolio) |
+
+## 🌍 Open source · impact
+
+- **[MuslimApp](https://github.com/LeM2003/MuslimApp)** — App communautaire gratuite (Coran, invocations, dhikr)
+- **[importmanager-sn](https://github.com/LeM2003/importmanager-sn)** — Gestion d'importations multi-devises pour entreprises sénégalaises
+- **[ecotrack](https://github.com/LeM2003/ecotrack)** — Gestion finances perso (mémoire de licence · PHP · MySQL · Chart.js)
+- **[Python-SysAdmin-Tools](https://github.com/LeM2003/Python-SysAdmin-Tools)** — Outils Python pour réseau & sécurité
 
 ---
 
-## Stack
+## 🛠️ Stack
 
-**Full-Stack Dev**
-
+**Build** &nbsp;
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white)
 
-**Data & IA**
+**AI** &nbsp;
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLMs-412991?style=flat&logo=openai&logoColor=white)
 
+**Data** &nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
----
-
-## Projets
-
-| Projet | Description | Stack | Lien |
-|--------|-------------|-------|------|
-| **Olèle Systems** | Plateforme LMS complète en production — formations vidéo, quiz certifiants, certificats auto, analytics | Next.js · TypeScript · Supabase · Vercel | [olelesystems.company](https://olelesystems.company) |
-| **Personal OS** | Dashboard SaaS de pilotage personnel — finances, productivité, KPIs | Next.js · TypeScript · PostgreSQL | En cours |
-| **ImportManager-SN** | Gestion d'importations — calculs multi-devises USD/CNY/EUR → XOF | JavaScript | [Demo live](https://lem2003.github.io/importmanager-sn) |
-| **EcoTrack** | Application financière avec dashboards interactifs — Mémoire Licence | PHP · MySQL · Chart.js | [Repo](https://github.com/LeM2003/ecotrack) |
+**Tools** &nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## En ce moment
+## 🎯 Open to
 
-- 🔨 Développement de **Personal OS** — Dashboard SaaS
-- 📚 Master **IA & Data Science** — Swiss UMEF University, Dakar
-- 🤝 Ouvert aux **collaborations & missions freelance**
+- 🌍 **Mission freelance** — sites, e-commerce, SaaS, intégration IA (LLM, RAG, chatbots)
+- 🤝 **Collaboration long terme** ou poste sénior remote (fuseau EU-friendly depuis Dakar)
+- 💬 **Échanges** autour de tout ce qui touche IA × produit × build in public
 
 ---
 
-## Contact
+## 📊 GitHub
 
-📧 dioufmouha71@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/mouhamadou-diouf-364309276)
+![Stats](https://github-readme-stats.vercel.app/api?username=LeM2003&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeM2003&layout=compact&hide_border=true&theme=transparent&langs_count=8)
+
+---
+
+## 🤝 Let's connect
+
+📧 **dioufmouha71@gmail.com**
+💼 [LinkedIn — Mouhamadou Diouf](https://linkedin.com/in/mouhamadou-diouf-364309276)
+🌐 Portfolio : *en construction sur [mouhamadou-diouf.com](https://mouhamadou-diouf.com)*
+
+---
+
+> *Si ça existe déjà, c'est pas assez ambitieux.*
