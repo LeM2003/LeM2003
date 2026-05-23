@@ -85,7 +85,7 @@ Stack : Next.js 16 · TypeScript · Supabase · JWT custom · Sentry · Vercel �
 ## 🤝 Let's connect
 
 📧 **Mouhamadoud_Diouf@proton.me**
-💼 [LinkedIn — Mouhamadou Diouf](https://www.linkedin.com/in/mouhamadou-diouf)
+💼 [LinkedIn — Mouhamadou Diouf](https://www.linkedin.com/in/mouhamadoudiouf)
 🌐 Portfolio : *en construction sur [mouhamadou-diouf.com](https://mouhamadou-diouf.com)*
 
 ---
