@@ -84,8 +84,8 @@ Stack : Next.js 16 · React 19 · TypeScript · Groq AI
 
 ## 📊 GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=LeM2003&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeM2003&layout=compact&hide_border=true&theme=transparent&langs_count=8)
+![Stats](https://github-stats-extended.vercel.app/api?username=LeM2003&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=false)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=LeM2003&layout=compact&hide_border=true&theme=transparent&langs_count=8)
 
 ---
 
