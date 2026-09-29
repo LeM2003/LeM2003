@@ -1,100 +1,52 @@
 # Mouhamadou Diouf
 
-### 🧭 Product Owner tech-first · 🤖 AI-native builder · 🎓 Master Data Science / IA · 🇸🇳 Dakar
+### Tech-first Product Owner · AI Product Builder · Dakar, Sénégal
 
-Je porte les produits de la vision au code : **cadrage, arbitrages roadmap, et exécution technique**.
-Stack de prédilection : Next.js, Supabase, intégration LLM.
-Master Data Science / IA — soutenance imminente · produits en clients réels.
+Je construis des produits numériques de l’idée jusqu’à la production.
 
----
+Mon travail se situe à l’intersection du produit, du business et de la technologie : comprendre le problème, cadrer les besoins, prioriser les fonctionnalités, travailler avec les équipes techniques et accompagner le produit jusqu’à sa mise en ligne.
 
-## 🛠️ Stack
+Je m’intéresse particulièrement aux produits SaaS, à l’intelligence artificielle, aux LLM et à l’automatisation.
 
-**Build** &nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white)
+## Ce que je construis
 
-**AI** &nbsp;
-![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white)
-![OpenAI](https://img.shields.io/badge/LLMs-412991?style=flat&logo=openai&logoColor=white)
+- **Liggeyo** — plateforme permettant aux formateurs africains de lancer leur espace de formation en ligne.
+- **Ndimbeul** — solution e-commerce permettant de vendre sans stock au Sénégal, avec catalogue, commandes, livraison et gestion des commissions.
+- **DABA Email Assistant** — assistant IA conçu pour intervenir sur les emails visibles à l’écran, sans accès permanent à la boîte mail.
+- **Produits et projets web** — applications full-stack, dashboards, outils de gestion et expériences SaaS.
 
-**Data** &nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+## Stack de travail
 
-**Tools** &nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
+**Produit**
 
----
+Product discovery · Product strategy · Roadmap · Spécifications · UX · QA · Delivery
 
-## 🚀 Produits shippés
+**Build**
 
-### 🏢 Olèle Systems — Écosystème e-formation (client en production)
+Next.js · React · TypeScript · Tailwind CSS · Supabase · Python · PHP · MySQL
 
-Trois composants connectés, du marketing au produit :
+**IA et data**
 
-| Composant | Rôle | Lien live |
-|---|---|---|
-| **Vitrine marketing** | Acquisition · présentation des formations | [olelesystems.com](https://olelesystems.com) |
-| **LMS Plateforme** | Produit · cours vidéo · quiz · certificats auto · clients réels | [olele-systems.vercel.app](https://olele-systems.vercel.app) |
-| **Le Cercle — Coaching** | Programme coaching premium | [lecercle-os.company](https://lecercle-os.company) |
+LLMs · Prompt engineering · Machine Learning · Data analysis · Power BI · SQL/PostgreSQL
 
-Stack : Next.js 16 · TypeScript · Supabase · JWT custom · Sentry · Vercel · Audit P0 sécurité fait
+**Outils**
 
-### 📋 Liggeyo — Plateforme de gestion (en développement)
+GitHub · Vercel · Sentry · REST APIs
 
-SaaS de gestion en cours de build. Pas encore de lien public — mise en ligne à venir.
+## Projets open source et académiques
 
-### 💻 Personal OS V2 — 🟢 Déployé
+- [MuslimApp](https://github.com/LeM2003/MuslimApp) — application communautaire gratuite autour du Coran, des invocations et du dhikr.
+- [importmanager-sn](https://github.com/LeM2003/importmanager-sn) — outil de gestion d’importations pour entreprises sénégalaises.
+- [ecotrack](https://github.com/LeM2003/ecotrack) — application web de suivi des finances personnelles, développée dans le cadre d’un projet académique.
+- [Python-SysAdmin-Tools](https://github.com/LeM2003/Python-SysAdmin-Tools) — outils Python d’automatisation réseau et d’analyse de logs.
 
-Refonte UI + TypeScript récente.
-Stack : Next.js 16 · React 19 · TypeScript · Groq AI
-[Live](https://personal-os-v2-wheat.vercel.app) · [Repo](https://github.com/LeM2003/personal-os-v2)
+## Liens
 
-🔧 *Aussi en chantier : Portfolio v2 — Next.js 16 · Motion · Tailwind v4 · [Live](https://mouhamadou-portfolio.vercel.app/) · [Repo](https://github.com/LeM2003/mouhamadou-portfolio)*
+- [Portfolio](https://mouhamadou-portfolio.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/mouhamadoudiouf/)
 
----
+## Contact
 
-## 🌍 Open source · impact
+Pour échanger autour du produit, de l’IA, du SaaS ou de la construction de produits numériques : ouvrez une discussion ou contactez-moi via LinkedIn.
 
-- **[MuslimApp](https://github.com/LeM2003/MuslimApp)** — App communautaire gratuite (Coran, invocations, dhikr)
-- **[importmanager-sn](https://github.com/LeM2003/importmanager-sn)** — Gestion d'importations multi-devises pour entreprises sénégalaises
-- **[ecotrack](https://github.com/LeM2003/ecotrack)** — Gestion finances perso (mémoire de licence · PHP · MySQL · Chart.js)
-- **[Python-SysAdmin-Tools](https://github.com/LeM2003/Python-SysAdmin-Tools)** — Outils Python pour réseau & sécurité
-
----
-
-## 🎯 Open to
-
-- 🌍 **Mission freelance** — sites, e-commerce, SaaS, intégration IA (LLM, RAG, chatbots)
-- 🤝 **Collaboration long terme** ou poste sénior remote (fuseau EU-friendly depuis Dakar)
-- 💬 **Échanges** autour de tout ce qui touche produit × IA × build in public
-
----
-
-## 📊 GitHub
-
-![Stats](https://github-stats-extended.vercel.app/api?username=LeM2003&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=false)
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=LeM2003&layout=compact&hide_border=true&theme=transparent&langs_count=8)
-
----
-
-## 🤝 Let's connect
-
-📧 **Mouhamadoud_Diouf@proton.me**
-💼 [LinkedIn — Mouhamadou Diouf](https://www.linkedin.com/in/mouhamadoudiouf)
-🌐 Portfolio : *en construction sur [mouhamadou-diouf.com](https://mouhamadou-diouf.com)*
-
----
-
-> *Si ça existe déjà, c'est pas assez ambitieux.*
+#productmanagement #ai #saas #buildinpublic #senegal
