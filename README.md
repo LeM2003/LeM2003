@@ -10,10 +10,26 @@ Je m’intéresse particulièrement aux produits SaaS, à l’intelligence artif
 
 ## Ce que je construis
 
-- **Liggeyo** — plateforme permettant aux formateurs africains de lancer leur espace de formation en ligne.
+- **Liggeyo** — plateforme SaaS de formation en ligne. Site public : [liggeyo.com](https://www.liggeyo.com/) (voir la section dédiée ci-dessous).
 - **Ndimbeul** — solution e-commerce permettant de vendre sans stock au Sénégal, avec catalogue, commandes, livraison et gestion des commissions.
 - **DABA Email Assistant** — assistant IA conçu pour intervenir sur les emails visibles à l’écran, sans accès permanent à la boîte mail.
 - **Produits et projets web** — applications full-stack, dashboards, outils de gestion et expériences SaaS.
+
+### 📋 Liggeyo — Plateforme SaaS de formation en ligne
+
+Liggeyo permet aux formateurs et créateurs de contenu de lancer leur propre espace de formation en ligne.
+
+- Site public : https://www.liggeyo.com/
+- Création d’espace de formation
+- Cours vidéo et documents
+- Quiz de validation
+- Certificats personnalisés
+- Domaine personnalisé
+- Paiements adaptés aux marchés africains francophones
+
+Statut : plateforme publique en développement continu.
+
+Stack : Next.js 16 · TypeScript · Supabase · Tailwind CSS · Sentry · Vercel
 
 ## Stack de travail
 
