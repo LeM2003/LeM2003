@@ -1,68 +1,55 @@
 # Mouhamadou Diouf
 
-### Tech-first Product Owner · AI Product Builder · Dakar, Sénégal
+### Développeur Full Stack & IA · Product Owner · Dakar, Sénégal
 
-Je construis des produits numériques de l’idée jusqu’à la production.
+Je conçois et je livre des SaaS en production, de la base de données à l'interface, en me demandant toujours **pourquoi** on construit une fonctionnalité et **pour qui**.
 
-Mon travail se situe à l’intersection du produit, du business et de la technologie : comprendre le problème, cadrer les besoins, prioriser les fonctionnalités, travailler avec les équipes techniques et accompagner le produit jusqu’à sa mise en ligne.
+## Ce que j'ai livré
 
-Je m’intéresse particulièrement aux produits SaaS, à l’intelligence artificielle, aux LLM et à l’automatisation.
+### Liggeyo — plateforme de formation en ligne multi-clients · [liggeyo.com](https://www.liggeyo.com/)
 
-## Ce que je construis
+Chaque formateur lance sa propre école en ligne, à son nom, en moins de 24 h.
 
-- **Liggeyo** — plateforme SaaS de formation en ligne. Site public : [liggeyo.com](https://www.liggeyo.com/) (voir la section dédiée ci-dessous).
-- **Ndimbeul** — solution e-commerce permettant de vendre sans stock au Sénégal, avec catalogue, commandes, livraison et gestion des commissions.
-- **DABA Email Assistant** — assistant IA conçu pour intervenir sur les emails visibles à l’écran, sans accès permanent à la boîte mail.
-- **Produits et projets web** — applications full-stack, dashboards, outils de gestion et expériences SaaS.
+- **Multi-clients** : un espace par formateur, données isolées entre clients dans la même base (PostgreSQL, Row Level Security, colonnes exposées listées explicitement)
+- **Paiements** Wave et Orange Money en FCFA, 0 % de commission
+- **Qualité** : environ 900 tests automatisés, CI à chaque pull request, suivi des erreurs avec Sentry, 60+ migrations de base versionnées
+- **En production** avec des clients payants, dont l'espace de formation d'Olèle Systems
 
-### 📋 Liggeyo — Plateforme SaaS de formation en ligne
+Stack : Next.js 16 · React 19 · TypeScript · Supabase (PostgreSQL) · Tailwind CSS · Sentry · Vercel
+Code privé (données clients) — étude de cas : [mouhamadou-portfolio.vercel.app/projects/liggeyo](https://mouhamadou-portfolio.vercel.app/projects/liggeyo)
 
-Liggeyo permet aux formateurs et créateurs de contenu de lancer leur propre espace de formation en ligne.
+### Refonte de mcesenegal.com — Maison de la Création d'Entreprise · [étude de cas](https://mouhamadou-portfolio.vercel.app/projects/mce-senegal)
 
-- Site public : https://www.liggeyo.com/
-- Création d’espace de formation
-- Cours vidéo et documents
-- Quiz de validation
-- Certificats personnalisés
-- Domaine personnalisé
-- Paiements adaptés aux marchés africains francophones
+Product Owner et développeur chez Auryntix : migration WordPress vers Next.js, back-office à rôles, bascule DNS sans coupure des emails.
 
-Statut : plateforme publique en développement continu.
+### Autres produits
 
-Stack : Next.js 16 · TypeScript · Supabase · Tailwind CSS · Sentry · Vercel
+- **[Ndimbeul](https://mouhamadou-portfolio.vercel.app/projects/ndimbeul)** — vendre sans stock au Sénégal : catalogue, commandes, livraison avec paiement à la réception, commissions.
+- **[DABA Email Assistant](https://mouhamadou-portfolio.vercel.app/projects/daba-email-assistant)** — extension IA qui agit sur l'email ouvert à l'écran, sans accès permanent à la boîte mail.
+- **SénéCare AI** — modèle de prédiction des coûts de santé pour mutuelles, **2e sur 9** au UMEF AI Bootcamp (GalsenAI × Umef Tech Community, octobre 2026).
 
-## Stack de travail
+## Comment je travaille avec l'IA
 
-**Produit**
+J'utilise Claude Code au quotidien, mais encadré : je relis tout le code généré, j'écris les tests, et je dois pouvoir expliquer chaque ligne. J'intègre aussi des modèles (Claude, Groq, Gemini) dans des produits réels.
 
-Product discovery · Product strategy · Roadmap · Spécifications · UX · QA · Delivery
+## Stack
 
-**Build**
+**Build** — Next.js · React · TypeScript · Node.js · Tailwind CSS · Supabase · PostgreSQL · PHP · MySQL
+**Data & IA** — Python · SQL · Power BI · Machine Learning · LLMs · RAG
+**Produit** — discovery · roadmap · spécifications · QA · delivery
+**Outils** — Git · GitHub Actions · Vercel · Sentry
 
-Next.js · React · TypeScript · Tailwind CSS · Supabase · Python · PHP · MySQL
+Master Data Science & IA en cours — SWISS UMEF University, Dakar.
 
-**IA et data**
+## Projets publics
 
-LLMs · Prompt engineering · Machine Learning · Data analysis · Power BI · SQL/PostgreSQL
-
-**Outils**
-
-GitHub · Vercel · Sentry · REST APIs
-
-## Projets open source et académiques
-
-- [MuslimApp](https://github.com/LeM2003/MuslimApp) — application communautaire gratuite autour du Coran, des invocations et du dhikr.
-- [importmanager-sn](https://github.com/LeM2003/importmanager-sn) — outil de gestion d’importations pour entreprises sénégalaises.
-- [ecotrack](https://github.com/LeM2003/ecotrack) — application web de suivi des finances personnelles, développée dans le cadre d’un projet académique.
-- [Python-SysAdmin-Tools](https://github.com/LeM2003/Python-SysAdmin-Tools) — outils Python d’automatisation réseau et d’analyse de logs.
-
-## Liens
-
-- [Portfolio](https://mouhamadou-portfolio.vercel.app/)
-- [LinkedIn](https://www.linkedin.com/in/mouhamadoudiouf/)
+- [personal-os-v2](https://github.com/LeM2003/personal-os-v2) — tableau de bord personnel (tâches, budget en FCFA, études), utilisable hors connexion.
+- [importmanager-sn](https://github.com/LeM2003/importmanager-sn) — gestion des importations pour entreprises sénégalaises.
+- [MuslimApp](https://github.com/LeM2003/MuslimApp) — application communautaire autour du Coran, des invocations et du dhikr.
+- [Python-SysAdmin-Tools](https://github.com/LeM2003/Python-SysAdmin-Tools) — automatisation réseau et analyse de logs en Python.
 
 ## Contact
 
-Pour échanger autour du produit, de l’IA, du SaaS ou de la construction de produits numériques : ouvrez une discussion ou contactez-moi via LinkedIn.
+📩 Mouhamadoud_Diouf@proton.me · 🌍 [Portfolio](https://mouhamadou-portfolio.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/mouhamadoudiouf/)
 
-#productmanagement #ai #saas #buildinpublic #senegal
+Disponible pour un poste de développeur à Dakar ou en remote, et pour des missions freelance.
